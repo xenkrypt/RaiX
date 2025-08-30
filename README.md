@@ -193,12 +193,6 @@ RaiX/
 
 ---
 
-## License
-
-This project is open-source. See [LICENSE](LICENSE) for details.
-
----
-
 ## Future Improvements
 
 * Add more AI-powered Japanese culture interactions.
